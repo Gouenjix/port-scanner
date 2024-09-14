@@ -9,3 +9,9 @@ it's perfect for network enthusiasts or IT professionals looking for a quick por
 - Scans ports over a custom range.
 - Save results in CSV format for easy review.
 - Intuitive, responsive design with real-time progress updates.
+
+#### Running the Script
+  - python PortScanner.py
+
+#### Creating the Executable
+  - pyinstaller --onefile --windowed --icon=your_icon.ico PortScanner.py
