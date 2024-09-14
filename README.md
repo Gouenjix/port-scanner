@@ -6,7 +6,6 @@ it's perfect for network enthusiasts or IT professionals looking for a quick por
 
 ## Features:
 
-- Dark-themed, modern GUI.
 - Scans ports over a custom range.
 - Save results in CSV format for easy review.
 - Intuitive, responsive design with real-time progress updates.
