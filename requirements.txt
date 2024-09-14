@@ -1,0 +1,3 @@
+- Python 3.x
+- Tkinter (usually included with Python)
+- PyInstaller (for creating an executable)
